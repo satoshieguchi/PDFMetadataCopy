@@ -15,6 +15,6 @@ Nested directory structures are acceptable.
 This repository depends on
 
 * [OpenJDK17](https://openjdk.java.net/),
-* [Eclipse](https://www.eclipse.org/),
-* [iText 7 Core](https://github.com/itext/itext7),
-* [SLF4J](https://www.slf4j.org/).
+* [Apache Maven](https://maven.apache.org/),
+* [SLF4J](https://www.slf4j.org/),
+* [iText 7 Core](https://github.com/itext/itext7).
